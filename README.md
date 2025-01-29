@@ -13,4 +13,4 @@ The application allows users to:
 
 ## Live Demo
 
-You can view the live demo of the project here: (https://vanshaggarwal5.github.io/JS-ASSIGNMENT01-VANSH-AGGARWAL/)
+You can view the live demo of the project here: https://shubham03122004.github.io/JS-Assignment01-Shubham/
